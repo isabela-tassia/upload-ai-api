@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "Sweet Dracula",
+  "terminal.integrated.allowChords": false,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": true
+  }
+}
+  
